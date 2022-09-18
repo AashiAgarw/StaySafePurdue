@@ -13,7 +13,7 @@ layout: default
  
  **Accomplishments**
  
- - Used a web scraping tool to efficiently add hundereds of purdue crime data points to a csv file. 
+ - Used a web scraping tool to efficiently add hundreds of purdue crime data points to a csv file. 
  - Used jupyter notebook to convert recorded building names into addresses, and then into coordinate points. Some issue were that the locations were entered manually, so spelling errors made it hard to automate this process. 
 
 **Future Steps**
