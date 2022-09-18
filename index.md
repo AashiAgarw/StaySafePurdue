@@ -4,6 +4,8 @@ layout: default
 
 # StaySafePurdue
 
+<img src="img/logo.png" class="logo.png" alt=""> </div>
+
 
 
 **Objectives**
