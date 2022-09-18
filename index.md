@@ -11,6 +11,10 @@ layout: default
  Our project interactively presents data from Purdue's Daily Crime Log in a Bubble Map using data scraping techniques and Google Maps API. 
  We hope that our user friendly visual of crime on campus empowers students to take control over their safety. 
  
+ **Accomplishments**
+ 
+ - Used a web scraping tool to efficiently add hundereds of purdue crime data points to a csv file. 
+ - Used jupyter notebook to convert recorded building names into addresses, and then into coordinate points. Some issue were that the locations were entered manually, so spelling errors made it hard to automate this process. 
 
 **Future Steps**
 
