@@ -1,5 +1,8 @@
-# StaySafePurdue
+---
+layout: default
+---
 
+# StaySafePurdue
 
 **Objectives
 
