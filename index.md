@@ -4,8 +4,6 @@ layout: default
 
 # StaySafePurdue
 
-<img src="img/logo.png" class="logo.png" alt=""> </div>
-
 
 
 **Objectives**
@@ -26,4 +24,9 @@ dates and timings of crimes, frequency of crimes of similar nature and severity,
 
 StaySafePurdue is a freshman "Hello World" hackathon team. Contributers include Phoebe Abbruzzese, Aashi Agarwal, Tanay Gondil, and Daria Surmach.
 Stay Safe Purdue!
+
+
+**Reference Websites**
+https://www.purdue.edu/ehps/police/statistics-policies/daily-crime-log.php
+https://thedatafrog.com/en/articles/show-data-google-map-python/
 
