@@ -9,7 +9,7 @@ layout: default
 **Objectives**
 
  Our project interactively presents data from Purdue's Daily Crime Log in a Bubble Map using data scraping techniques and Google Maps API. 
- We hope that our user friendly visual of crimes on campus empowers students to take control over their safety. 
+ We hope that our user friendly visual of crime on campus empowers students to take control over their safety. 
  
 
 **Future Steps**
